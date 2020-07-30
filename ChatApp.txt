@@ -11,3 +11,7 @@ Chat screen code
 Attachments(Image,Audio,video) code
 
 Hiding last seen code
+
+Adding video call feature
+
+Adding audio call feature
